@@ -51,15 +51,6 @@ This project demonstrates **GUI development, game logic, and event-driven progra
 
 ---
 
-## ▶️ How to Run the Project
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/2-player-games.git
-cd 2-player-games
-pip install pillow
-python main_menu.py
-
 ### 🎮 Controls Overview
 Tug of War
 
